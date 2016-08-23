@@ -20,7 +20,7 @@
 @implementation ChatViewController
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"测试git 分支");
+    NSLog(@"测试git 分支+++++++++");
 }
 /**
  *  跳转至红包界面
