@@ -7,8 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		071893481D6BF5D1001FA3EA /* MeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 071893461D6BF5D1001FA3EA /* MeViewController.m */; };
-		071893491D6BF5D1001FA3EA /* MeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 071893471D6BF5D1001FA3EA /* MeViewController.xib */; };
 		0718934D1D6C1FBC001FA3EA /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0718934B1D6C1FBC001FA3EA /* HomeViewController.m */; };
 		0718934E1D6C1FBC001FA3EA /* HomeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0718934C1D6C1FBC001FA3EA /* HomeViewController.xib */; };
 		0726C00A1D4F3A7800D34B45 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0726C0091D4F3A7800D34B45 /* main.m */; };
@@ -29,9 +27,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		071893451D6BF5D1001FA3EA /* MeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MeViewController.h; sourceTree = "<group>"; };
-		071893461D6BF5D1001FA3EA /* MeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MeViewController.m; sourceTree = "<group>"; };
-		071893471D6BF5D1001FA3EA /* MeViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MeViewController.xib; sourceTree = "<group>"; };
 		0718934A1D6C1FBC001FA3EA /* HomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
 		0718934B1D6C1FBC001FA3EA /* HomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
 		0718934C1D6C1FBC001FA3EA /* HomeViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HomeViewController.xib; sourceTree = "<group>"; };
@@ -99,9 +94,6 @@
 				07ABC1D21D50C7F900454927 /* ChangeViewController.h */,
 				07ABC1D31D50C7F900454927 /* ChangeViewController.m */,
 				07ABC1D41D50C7F900454927 /* ChangeViewController.xib */,
-				071893451D6BF5D1001FA3EA /* MeViewController.h */,
-				071893461D6BF5D1001FA3EA /* MeViewController.m */,
-				071893471D6BF5D1001FA3EA /* MeViewController.xib */,
 				0718934A1D6C1FBC001FA3EA /* HomeViewController.h */,
 				0718934B1D6C1FBC001FA3EA /* HomeViewController.m */,
 				0718934C1D6C1FBC001FA3EA /* HomeViewController.xib */,
@@ -185,7 +177,6 @@
 			files = (
 				07ABC1CF1D5071E200454927 /* HBViewController.xib in Resources */,
 				0726C0181D4F3A7800D34B45 /* LaunchScreen.storyboard in Resources */,
-				071893491D6BF5D1001FA3EA /* MeViewController.xib in Resources */,
 				07ABC1DA1D50DEF000454927 /* true.png in Resources */,
 				07ABC1D11D50742800454927 /* back.png in Resources */,
 				0726C0151D4F3A7800D34B45 /* Assets.xcassets in Resources */,
@@ -205,7 +196,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				071893481D6BF5D1001FA3EA /* MeViewController.m in Sources */,
 				07ABC1D51D50C7F900454927 /* ChangeViewController.m in Sources */,
 				0726C00D1D4F3A7800D34B45 /* AppDelegate.m in Sources */,
 				0726C00A1D4F3A7800D34B45 /* main.m in Sources */,
