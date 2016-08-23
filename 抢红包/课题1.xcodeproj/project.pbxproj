@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		071893481D6BF5D1001FA3EA /* MeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 071893461D6BF5D1001FA3EA /* MeViewController.m */; };
 		071893491D6BF5D1001FA3EA /* MeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 071893471D6BF5D1001FA3EA /* MeViewController.xib */; };
+		0718934D1D6C1FBC001FA3EA /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0718934B1D6C1FBC001FA3EA /* HomeViewController.m */; };
+		0718934E1D6C1FBC001FA3EA /* HomeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0718934C1D6C1FBC001FA3EA /* HomeViewController.xib */; };
 		0726C00A1D4F3A7800D34B45 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0726C0091D4F3A7800D34B45 /* main.m */; };
 		0726C00D1D4F3A7800D34B45 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0726C00C1D4F3A7800D34B45 /* AppDelegate.m */; };
 		0726C0151D4F3A7800D34B45 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0726C0141D4F3A7800D34B45 /* Assets.xcassets */; };
@@ -30,6 +32,9 @@
 		071893451D6BF5D1001FA3EA /* MeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MeViewController.h; sourceTree = "<group>"; };
 		071893461D6BF5D1001FA3EA /* MeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MeViewController.m; sourceTree = "<group>"; };
 		071893471D6BF5D1001FA3EA /* MeViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MeViewController.xib; sourceTree = "<group>"; };
+		0718934A1D6C1FBC001FA3EA /* HomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
+		0718934B1D6C1FBC001FA3EA /* HomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
+		0718934C1D6C1FBC001FA3EA /* HomeViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HomeViewController.xib; sourceTree = "<group>"; };
 		0726C0051D4F3A7800D34B45 /* 课题1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "课题1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0726C0091D4F3A7800D34B45 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		0726C00B1D4F3A7800D34B45 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -97,6 +102,9 @@
 				071893451D6BF5D1001FA3EA /* MeViewController.h */,
 				071893461D6BF5D1001FA3EA /* MeViewController.m */,
 				071893471D6BF5D1001FA3EA /* MeViewController.xib */,
+				0718934A1D6C1FBC001FA3EA /* HomeViewController.h */,
+				0718934B1D6C1FBC001FA3EA /* HomeViewController.m */,
+				0718934C1D6C1FBC001FA3EA /* HomeViewController.xib */,
 				0726C0141D4F3A7800D34B45 /* Assets.xcassets */,
 				07B11D111D51DD970030AC66 /* openHB.png */,
 				07ABC1D71D50DEF000454927 /* false.png */,
@@ -186,6 +194,7 @@
 				0726C0251D4F3F0700D34B45 /* hb.png in Resources */,
 				07ABC1D61D50C7F900454927 /* ChangeViewController.xib in Resources */,
 				07ABC1D91D50DEF000454927 /* false.png in Resources */,
+				0718934E1D6C1FBC001FA3EA /* HomeViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -201,6 +210,7 @@
 				0726C00D1D4F3A7800D34B45 /* AppDelegate.m in Sources */,
 				0726C00A1D4F3A7800D34B45 /* main.m in Sources */,
 				07ABC1CE1D5071E200454927 /* HBViewController.m in Sources */,
+				0718934D1D6C1FBC001FA3EA /* HomeViewController.m in Sources */,
 				0726C0221D4F3B0200D34B45 /* ChatViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
