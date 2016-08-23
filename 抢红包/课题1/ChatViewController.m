@@ -21,6 +21,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"测试git 分支");
+    NSLog(@"新建仓库分支");
 }
 /**
  *  跳转至红包界面
